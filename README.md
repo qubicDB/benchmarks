@@ -88,3 +88,7 @@ go test -run '^$' -bench 'BenchmarkBrainWorker' \
 ## License
 
 MIT
+
+---
+
+Developed by [Deniz Umut Dereli](https://github.com/denizumutdereli)
